@@ -5,8 +5,9 @@
 .title {
   text-align: center;
   background-color: #FFB7C5;
-  
+  height: 100px;
 }
 img {
   float: right;
+
 }
