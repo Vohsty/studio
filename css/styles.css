@@ -3,7 +3,9 @@
     float: left;
   }
 .title {
+  text-align: center;
   background-color: #FFB7C5;
+  
 }
 img {
   float: right;
