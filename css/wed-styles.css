@@ -1,0 +1,25 @@
+body {
+  background-image: url("beach.jpg");
+  height: 1500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.african{
+  text-align: center;
+border: 2px;
+padding: 6px;
+margin: 20px;
+}
+.modern{
+  text-align: center;
+border: 2px ;
+padding: 6px;
+margin: 2px;
+}
+.mod-txt{
+  text-align: center;
+}
+.afr-txt{
+  text-align: center;
+}
